@@ -6,3 +6,7 @@ It’s an area of computer vision that’s exploding and working so much better 
     YOLO is extremely fast
     YOLO sees the entire image during training and test time so it implicitly encodes contextual information about classes as well as their appearance.
     YOLO learns generalizable representations of objects so that when trained on natural images and tested on artwork, the algorithm outperforms other top detection methods.
+    
+    Download the CoCO weight filese with this link mentioned below
+    https://pjreddie.com/darknet/yolo/
+    
